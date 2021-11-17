@@ -1,9 +1,12 @@
 #include <iostream>
 using namespace std;
 
+//czk - cena za kilogram
+
 int main () 
 {
     string PIN;
-    int ;
+    double waga;
+    double czk_pomarancza, czk_jablko, czk_gruszka, czk_banan, czk_ziemniak, czk_pomidor, czk_ogorek, czk_kapusta;
     int ;
 };
